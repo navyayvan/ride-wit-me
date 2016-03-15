@@ -1,19 +1,18 @@
-#Contigo a Full Stack Rails App!
+#Contigo.
 
 ##About
-ConTigo is built by @Navya Lakkaraju, @Derek Nuzum, @Cassandra Aguiar, and @Jonathan Stevenson. ConTigo is used to link riders sharing the same desinations with popular transportaion serivces like Uber and Lyft. The idea came to be from our desire to save money, and our fondness of ridehsaring but wanted it avialable at anytime.
+ ConTigo is a a social ride-share service in which commuters of Lyft and Uber can see if others nearby might be going the same way. Save money, make connections!
+ 
+ ConTigo, born from the powerful combination of an empty wallet and love of convenience, is the brain child and full stack Rails application built by @Navya Lakkaraju, @Derek Nuzum, @Cassandra Aguiar, and @Jonathan Stevenson. 
 
 ##Technologies used
-  * Ruby
-  * Ruby on Rails
+  * HTML5/CSS3
   * SASS
-  * Bootstrap
-  * PostgreSQL
-  * HTML
   * Javascript
-  * Github and Heroku
-  * Logo Pop (Creating our logo)
-  * Git
+  * PostgreSQL
+  * Git/Github and Heroku
+  * Bootstrap
+  * JQuery 
   * Google Maps API
   * Facebook API
   * Lyft and Uber API
@@ -21,13 +20,14 @@ ConTigo is built by @Navya Lakkaraju, @Derek Nuzum, @Cassandra Aguiar, and @Jona
   * MailGun (for mailers)
   * gmaps4rails(gem)
   * OmniAuth
+  * Logo Pop (Creating our logo)
   * Trello, Slack, GroupMe (for communication)
 
  ##Approach
-  * Brainstorm of potetial ideas, then final choice
+  * Brainstormed potential ideas, finalized one.
+  * Drew up wireframes of and database schema 
   * Assign group members areas of focus, ie: front end, back end, and focuses within each area
   * Outline of daily goals, frequently meet up throughout process, and partner up for difficult tasks, communicated in person and via app(s) when remote coding
-    - Created user stories and wire frames
     - Build basic app, views, routes, styling 
     - Implemented Facebook OAuth
     - Research and implemented Mailer  
@@ -46,7 +46,7 @@ ConTigo is built by @Navya Lakkaraju, @Derek Nuzum, @Cassandra Aguiar, and @Jona
   ###Who are our users, what do they want, and why?
   Our users are persons who use; any public transit, a phone, and wants to save money. Pretty much EVERYONE!
   Our users want a way to save money on their commutes by ride sharing. 
-  Why... saving money is dope ya'll.
+  Why... saving money is dope y'all.
 
 - As a user, I want to be able to find those who are also traveling to my location(s). 
 - As a user, I want to easily contact those with whom I have previously shared rides.
@@ -59,8 +59,8 @@ ConTigo is built by @Navya Lakkaraju, @Derek Nuzum, @Cassandra Aguiar, and @Jona
 
 ## Wireframes
 
-## Unsolved Problems and Major Hurdles
+## Learning Experiences and Ideas for Future Development
  * Back end hurdles: geocoding application
  * Front end hurdles: margins and keeping site as responsive as possible at all views
- * Unsolved Problems:
+ * If we had more time: Implement SMS messaging service to connect users 
   -
