@@ -1,4 +1,4 @@
-#Contigo.
+#Contigo
 
 ##About
  ConTigo is a a social ride-share service in which commuters of Lyft and Uber can see if others nearby might be going the same way. Save money, make connections!
